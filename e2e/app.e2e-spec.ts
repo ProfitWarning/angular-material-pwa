@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('sw-test App', () => {
+describe('angular-material-pwa App', () => {
   let page: AppPage;
 
   beforeEach(() => {
