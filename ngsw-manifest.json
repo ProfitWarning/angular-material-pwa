@@ -1,0 +1,32 @@
+{
+  "external": {
+    "urls": [
+      {
+        "url": "https://fonts.googleapis.com/icon?family=Material+Icons"
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono"
+      },
+      {
+        "url": "https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js"
+      },
+      {
+        "url": "https://cdnjs.cloudflare.com/ajax/libs/web-animations/2.2.5/web-animations.min.js"
+      }
+    ]
+  },
+  "static": {
+    "urls": {
+      "/polyfills.900aaf0d520c2ec873a7.bundle.js": "1e4779eb00ffdcce4c9f4f6f7ca69d60d101b2ab",
+      "/main.9f795ada8dcdb2317504.bundle.js": "e79a39c94a22f9459dcdebbcadfe1f172890003e",
+      "/sw-register.6819cd2c5fa25470ecf2.bundle.js": "50d549edfbd188ed199d8d0b079afa593202e3ea",
+      "/vendor.15c401dd88db4f96bac1.bundle.js": "516af414ebf5886dc97f59e322f571703dfba2e3",
+      "/inline.3e69c46c9777b719a3f0.bundle.js": "002e2a9db8afba1b4477887f249fc71877b87fbc",
+      "/styles.3c2cfcf9fb2cfcea49af.bundle.css": "44319b44e9e2938ed989dfba7b8f785ddf35479c",
+      "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+      "/manifest.json": "e3f9cbfa861c5eabe884642c23a302a6b4c649be",
+      "/index.html": "9664c8363dc5f7f93b8f3ced5367cba63fa67083"
+    },
+    "_generatedFromWebpack": true
+  }
+}
