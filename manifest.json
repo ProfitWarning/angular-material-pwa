@@ -3,7 +3,7 @@
     "short_name": "Angular Material",
     "theme_color": "#FFFFFF",
     "background_color": "#3F51B5",
-    "start_url": "/",
+    "start_url": "https://profitwarning.github.io/angular-material-pwa/",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [
@@ -43,10 +43,10 @@
         "type": "image\/png",
         "density": "4.0"
       },
-      {  
-        "src": "/images/icon-512x512.png",  
-        "sizes": "512x512",  
-        "type": "image/png"  
+      {
+        "src": "/images/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
       }
     ]
   }
