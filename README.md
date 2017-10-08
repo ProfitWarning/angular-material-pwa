@@ -1,11 +1,11 @@
 # Angular Material PWA
 This is a PWA ready Angular Material Boilerplate project.
 
+[Preview](https://profitwarning.github.io/angular-material-pwa/)
+
 ## Test PWA
 
 ![alt](lighthouse.PNG)
-
-All tests pass, but I was too lazy to setup ssl.
 
 Test was performed by [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
 
